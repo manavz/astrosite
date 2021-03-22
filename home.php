@@ -219,7 +219,9 @@
 
     <!-- banner-section-ends -->
 
-
+    <?php
+  include('./partials/footer.php');
+  ?>
 
   </body>
 

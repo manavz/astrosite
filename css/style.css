@@ -112,3 +112,12 @@ nav {
   margin-top: 7%;
   box-shadow: -1px 0px 5px 2px rgba(0, 0, 0, 0.6);
 }
+
+.pandit-image{
+  border: 5px solid #e9453e ;
+}
+
+.footer-bg{
+  background-color: #932321;
+  color: white;
+}
