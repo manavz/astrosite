@@ -26,7 +26,7 @@
 
     <nav>
       <div class="logo">
-        <img src="./images/logo.png" alt="img">
+        <img src="./images/logo.png" height="130px" alt="img">
       </div>
 
       <div class="menu">
