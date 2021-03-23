@@ -2,18 +2,15 @@
 include('header.php');
 ?>
 
-
 <!-- about banner top -->
 
 <section class="container-fluid about-banner">
     <div class="container py-4">
         <div class="row">
-            <div class="col-md-3">
-                <h3 class="text-white lft_title">About us</h3>
+            <div class="col-md-12 text-center">
+                <h2 class="text-white ">grah shanti pooja</h2>
             </div>
-            <div class="col-md-3 offset-md-6">
-                <a href="./home.php" class="text-white right-link text-decoration-none">Home</a>
-            </div>
+            
         </div>
     
     </div>
@@ -21,12 +18,13 @@ include('header.php');
 
 <!-- about banner top ends -->
 
+
 <!-- about section starts -->
 <section class="container-fluid ">
     <div class="container pt-4">
         <div class="row">
             <div class="col-md-8 pr-4">
-                    <h1 class="card-title mt-4 font-weight-bold">What we do it ?</h1>
+                    <h1 class="card-title mt-4 font-weight-bold">Benifits of this grah shanti pooja</h1>
                     <div class="text-center">
       <div class="card-line mt-3"></div>
     </div>
@@ -47,7 +45,7 @@ include('header.php');
 
 <?php
   include('footer.php');
-  ?>
+?>
 
 
 <!-- about section ends -->

@@ -1,4 +1,4 @@
-<footer class="footer-bg overflow-hidden">
+<footer class="footer-bg overflow-hidden mt-5">
 
 <div class="row justify-content-center">
         <div class="col-md-8  mt-3">
@@ -58,7 +58,7 @@
   <!-- Grid container -->
 
   <!-- Copyright -->
-  <div class="text-center p-3 mb-3" style="background-color: rgba(0, 0, 0, 0.2);">
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2020 Copyright:
     <a class="text-white" href="./home.php">Astrosite.com</a>
   </div>
